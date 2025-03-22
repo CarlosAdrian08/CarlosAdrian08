@@ -30,7 +30,6 @@ I’m Carlos Adrian, a dedicated software developer fueled by a passion for prog
 <div align="center">
   <details open>
     <summary><b>Languages & Technologies</b></summary>
-    <br>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
