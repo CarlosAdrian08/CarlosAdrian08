@@ -53,12 +53,6 @@ I’m Carlos Adrian, a dedicated software developer fueled by a passion for prog
   </details>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosAdrian08&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAdrian08&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 📫 Contact Me
 
