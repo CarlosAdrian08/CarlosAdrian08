@@ -69,8 +69,6 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAdrian08&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=CarlosAdrian08&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-</div>
+</div> -->
